@@ -12,7 +12,6 @@
 - 📫 How to reach me **bahiab144@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SkUn_CybwIAa8s4yqkS5hOKXinoxgbVznwhR9jhio7A/edit?usp=sharing](https://docs.google.com/document/d/1SkUn_CybwIAa8s4yqkS5hOKXinoxgbVznwhR9jhio7A/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bahiyyah-4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bahiyyah-4" height="30" width="40" /></a>
